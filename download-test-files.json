@@ -1,0 +1,22 @@
+{
+    "files":  [
+                  {
+                      "name":  "omega-test-1.txt",
+                      "size":  57,
+                      "path":  "download-test/omega-test-1.txt",
+                      "url":  "https://raw.githubusercontent.com/aliabbashamedanian/Omega-Game-Files/main/download-test/omega-test-1.txt"
+                  },
+                  {
+                      "name":  "omega-test-2.txt",
+                      "size":  2076,
+                      "path":  "download-test/omega-test-2.txt",
+                      "url":  "https://raw.githubusercontent.com/aliabbashamedanian/Omega-Game-Files/main/download-test/omega-test-2.txt"
+                  },
+                  {
+                      "name":  "omega-test-3.txt",
+                      "size":  3866,
+                      "path":  "download-test/omega-test-3.txt",
+                      "url":  "https://raw.githubusercontent.com/aliabbashamedanian/Omega-Game-Files/main/download-test/omega-test-3.txt"
+                  }
+              ]
+}
